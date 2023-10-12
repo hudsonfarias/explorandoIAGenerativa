@@ -1,4 +1,4 @@
-# Desafio de Projeto - Explorando IA Generativa em um Pipeline de ETL com Python
+# ⚔ Desafio de Projeto - Explorando IA Generativa em um Pipeline de ETL com Python 
 
 Este projeto visa enriquecer dados de clientes com informações personalizadas de investimento. Para isso, utilizamos um pipeline ETL (Extração, Transformação e Carga) para processar dados de clientes, formatar datas e salários e, em seguida, integrar a API do GPT para gerar recomendações de investimento personalizadas.
 
@@ -29,4 +29,7 @@ Este projeto visa enriquecer dados de clientes com informações personalizadas 
 ## Conclusão
 
 Este projeto demonstra a aplicação bem-sucedida de um pipeline ETL para enriquecimento de dados de clientes com uma IA generativa. Os dados enriquecidos podem ser usados para tomada de decisões de investimento personalizadas e análises futuras.
+
+
+##### ⚠ Todos os dados utilizados nesse desafio, são dados fictícios. Qualquer semelhança com a realidade é mera coindência.
 
