@@ -1,0 +1,11 @@
+ID,Nome,Email,UF,Salario,DataRegistroBanco,Agencia,NumeroConta,DataNascimento,Sexo,OpcoesInvestimento
+1,João Silva,joao.silva@email.com,SP,R$ 5000.00,15/01/2022,7890,123456789,10/03/1985,Masculino,"João Silva, invista na bolsa e amplie seus ganhos! #bolsadevalores #investimentos"
+2,Maria Santos,maria.santos@email.com,RJ,R$ 3200.50,20/11/2021,4567,987654321,22/07/1990,Feminino,"""Maria Santos, invista na bolsa: segurança e lucratividade!"""
+3,Carlos Ferreira,carlos.ferreira@email.com,MG,R$ 7500.75,05/03/2022,2345,456123789,14/09/1978,Masculino,"""Carlos Ferreira, invista na bolsa de valores e conquiste sua independência financeira. Seja um investidor de sucesso!"""
+4,Ana Souza,ana.souza@email.com,BA,R$ 1200.20,30/04/2022,7890,987654321,03/12/1995,Feminino,"Invista na bolsa: crescimento e rentabilidade garantidos, Ana Souza."
+5,Lucas Oliveira,lucas.oliveira@email.com,RS,R$ 4300.60,08/10/2021,1234,123456789,25/05/1987,Masculino,"""Lucas Oliveira, invista na bolsa e alcance seus objetivos!"""
+6,Julia Santos,julia.santos@email.com,PR,R$ 6000.30,18/02/2022,5678,789456123,29/11/1993,Feminino,"""Julia Santos, potencialize sua rentabilidade: invista na bolsa de valores!"""
+7,Mariana Pereira,mariana.pereira@email.com,SC,R$ 4200.75,12/06/2022,3456,987123456,17/04/1991,Feminino,"""Maximize seu patrimônio na B3 com estratégias inteligentes, Mariana Pereira."""
+8,Ricardo Martins,ricardo.martins@email.com,GO,R$ 5500.40,29/12/2021,8901,456789012,05/08/1980,Masculino,"""Aumente sua carteira com segurança na Bolsa. Conte com nossa expertise, Ricardo Martins."""
+9,Lúcia Rodrigues,lucia.rodrigues@email.com,AM,R$ 3700.90,03/08/2022,6789,654321987,13/02/1989,Feminino,"""Maximize sua rentabilidade na Bolsa com a orientação personalizada para Lúcia Rodrigues. Invista com confiança!"""
+10,Felipe Almeida,felipe.almeida@email.com,CE,R$ 4900.60,25/05/2022,1234,210987654,18/06/1984,Masculino,"""Seja um investidor de sucesso na Bolsa de Valores, Felipe Almeida. Aproveite as oportunidades!"""

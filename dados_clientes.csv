@@ -1,0 +1,11 @@
+ID,Nome,Email,UF,Salario,DataRegistroBanco,Agencia,NumeroConta,DataNascimento,Sexo
+1,João Silva,joao.silva@email.com,SP,5000.00,2022-01-15,7890,123456789,1985-03-10,Masculino
+2,Maria Santos,maria.santos@email.com,RJ,3200.50,2021-11-20,4567,987654321,1990-07-22,Feminino
+3,Carlos Ferreira,carlos.ferreira@email.com,MG,7500.75,2022-03-05,2345,456123789,1978-09-14,Masculino
+4,Ana Souza,ana.souza@email.com,BA,1200.20,2022-04-30,7890,987654321,1995-12-03,Feminino
+5,Lucas Oliveira,lucas.oliveira@email.com,RS,4300.60,2021-10-08,1234,123456789,1987-05-25,Masculino
+6,Julia Santos,julia.santos@email.com,PR,6000.30,2022-02-18,5678,789456123,1993-11-29,Feminino
+7,Mariana Pereira,mariana.pereira@email.com,SC,4200.75,2022-06-12,3456,987123456,1991-04-17,Feminino
+8,Ricardo Martins,ricardo.martins@email.com,GO,5500.40,2021-12-29,8901,456789012,1980-08-05,Masculino
+9,Lúcia Rodrigues,lucia.rodrigues@email.com,AM,3700.90,2022-08-03,6789,654321987,1989-02-13,Feminino
+10,Felipe Almeida,felipe.almeida@email.com,CE,4900.60,2022-05-25,1234,210987654,1984-06-18,Masculino
